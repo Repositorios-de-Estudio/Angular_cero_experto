@@ -1,0 +1,29 @@
+PORQUE USAR TypeScript
+
+1. Ayuda a intelisense fuerte
+2. Tipado escricto, reduce errores, mejora eligibilidad del codigo
+3. Permite usar caracteriscas modernas para potenciar Angular, Permite inyectar dependencias
+
+Alternativas:
+- Angular vs React vs Vue vs Svelte
+
+
+Introducción a TypeScript:
+
+    Tipos básicos
+
+    Objetos, arreglos e interfaces
+
+    Funciones y sus argumentos
+
+    Desestructuración de arreglos y objetos
+
+    Importaciones y exportaciones
+
+    Clases, constructores
+
+    Tipos genéricos
+
+    Decoradores
+
+    Encadenamiento opcional
