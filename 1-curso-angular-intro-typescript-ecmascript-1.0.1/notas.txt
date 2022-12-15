@@ -31,3 +31,10 @@ Introducción a TypeScript:
 
 Editor online:
 https://stackblitz.com/edit/typescript-vxnz8z?file=index.html
+
+
+Para el 1-: Solucionar problema  digital envelope routines::unsupported
+
+npm install -D @webpack-cli/serve --legacy-peer-deps
+npm update
+npm run start
