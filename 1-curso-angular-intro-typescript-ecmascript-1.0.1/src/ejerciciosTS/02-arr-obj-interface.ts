@@ -17,6 +17,7 @@ let habilidadesVarios: (boolean | string | number) [] = [];
 let habilidaes = ['Bash','Counter','Healing'];
 
 // la manera de hacer que un objeto sea
+// LAS INTERFACES son como clases tontas, no son como clases verdaderas
 // con  interrogante  ? se indica propiedad opcional
 // las interfaces no existen en Javascript, por lo que no se traduce de TS a JS
 // los tipos no existen en Javascript
