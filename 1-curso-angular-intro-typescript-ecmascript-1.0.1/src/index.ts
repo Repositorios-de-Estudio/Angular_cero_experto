@@ -7,5 +7,3 @@ console.log('sergio');
     ===== Código de TypeScript =====
 */
 
-
-
