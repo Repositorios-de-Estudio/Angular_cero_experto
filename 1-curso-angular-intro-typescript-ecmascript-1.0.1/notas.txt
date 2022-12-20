@@ -32,9 +32,18 @@ Introducción a TypeScript:
 Editor online:
 https://stackblitz.com/edit/typescript-vxnz8z?file=index.html
 
+Documentación TypeScript:
+https://www.typescriptlang.org/docs/handbook/basic-types.html
 
-Para el 1-: Solucionar problema  digital envelope routines::unsupported
 
-npm install -D @webpack-cli/serve --legacy-peer-deps
-npm update
-npm run start
+Instalación versiones del curso:
+
+sudo dnf module install nodejs:14/common
+
+sudo npm install -g @angular/cli@14
+
+
+#comando de instalacion significa que es de manera global -g
+npm <algo> -g <algo>
+
+ESDE LA TERMINAL DE LINUX*
