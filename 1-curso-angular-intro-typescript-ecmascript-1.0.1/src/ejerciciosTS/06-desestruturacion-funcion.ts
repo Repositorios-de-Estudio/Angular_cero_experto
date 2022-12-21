@@ -54,5 +54,5 @@ const [ total, isv ] = calcularISV(articulos);
 
 
 
-console.log('Toral: ', total);
+console.log('Total: ', total);
 console.log('ISV: ', isv);
