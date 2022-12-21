@@ -1,4 +1,3 @@
-import { transform } from "typescript";
 
 
 console.log('Hola Mundo YO 2022 ! Sergio ****');
@@ -9,7 +8,7 @@ console.log('Hola Mundo YO 2022 ! Sergio ****');
 */
 
 
-interface Producto {
+export interface Producto {
     desc: string;
     precio: number;
 }
@@ -27,7 +26,7 @@ const tableta: Producto = {
 }
 
 // calcular impuesto sobre venta
-function calcularISV(productos: Producto[]): [number, number]{
+export function calcularISV(productos: Producto[]): [number, number]{
     
     let total1 = 0;
     let total2 = 0;
