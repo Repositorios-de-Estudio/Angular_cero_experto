@@ -36,6 +36,9 @@ Documentación TypeScript:
 https://www.typescriptlang.org/docs/handbook/basic-types.html
 
 
+Documentación Decoradores:
+https://www.typescriptlang.org/docs/handbook/decorators.html#class-decorators
+
 Instalación versiones del curso:
 
 sudo dnf module install nodejs:14/common
@@ -66,3 +69,5 @@ abrir archivo bundle.js en el navegador
 Colocar varias lineas como Comentario
 
 'ctrl + k' y luego 'ctrl + c'
+
+
