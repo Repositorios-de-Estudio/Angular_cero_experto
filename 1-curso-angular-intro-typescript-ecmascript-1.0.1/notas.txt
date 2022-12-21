@@ -60,3 +60,9 @@ npm start
 
 Mirar errores:
 abrir archivo bundle.js en el navegador 
+
+
+
+Colocar varias lineas como Comentario
+
+'ctrl + k' y luego 'ctrl + c'

@@ -44,15 +44,15 @@ console.log('Autor :', reproductor.detalle.autor);
 const autor = 'Fulano';
 
 // ejemplo con desestruturacion
-const {volumen: vol, segundo: seg, cancion: can, detalle: det} = reproductor;
-const {autor: autor2} = det;
+const { volumen: vol, segundo: seg, cancion: can, detalle: det } = reproductor;
+const { autor: autor2 } = det;
 
 //ejemplo con desestructuracion dentro de la desestructuracion
 // se le da un alias al autor (autorDetalle) para que no choque con autor Fulano
 //const {volumen, segundo, cancion, detalle: {autor: autorDetalle}} = reproductor;
 
 
-console.log('Volumen :', vol);
-console.log('Segundo :', seg);
-console.log('Cancion :', can);
-console.log('Autor :', autor2);
+// console.log('Volumen :', vol);
+// console.log('Segundo :', seg);
+// console.log('Cancion :', can);
+// console.log('Autor :', autor2);
